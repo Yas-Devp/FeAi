@@ -5,7 +5,7 @@ import time
 
 url = "https://openrouter.ai/api/v1/chat/completions"
 ai_model = "anthropic/claude-3-haiku"
-api_key = "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"
+api_key = "your openrouter apiKey"
 message = "hello"
 history = [{
     "role": "system",
