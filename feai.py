@@ -9,7 +9,7 @@ api_key = "your openrouter apiKey"
 message = "hello"
 history = [{
     "role": "system",
-    "content": "You are a front-end development assistant , you task is to do what I ask you to do and tell me the brief of your adjusts and edits , nothing else . I am the backend developper , so you should help me in front end , ask me what you want , bcz we are team "
+    "content": "You are a front-end development assistant ."
 }]
 
 headers = {
@@ -47,7 +47,8 @@ def print_banner():
     os.system("figlet feai")
     #print(colors["bg_blue"] + colors["black"] + banner)
     print()
-    print(colors["bg_magenta"]+"====Π[ FRONT END AI BY ::: YASSIN ]"+ colors["reset"])
+    print(colors["bg_magenta"]+"====Π[ AI ASSISTANT BY ::: YASP-DEVP ]Π===="+ colors["reset"])
+    print("GITHUB : "+colors["blue"]+"https://github.com/Yas-Devp"+colors["reset"])
     print('\n\n')
 
 
@@ -107,7 +108,7 @@ def start():
                 history.clear()
                 history.append({
                     "role": "system",
-                    "content": "You are a front-end development assistant , you task is to do what I ask you to do and tell me the brief of your adjusts and edits , nothing else . I am the backend developper , so you should help me in front end , ask me what you want , bcz we are team "
+                    "content": "You are a front-end development assistant. "
                 })
                 
                 print("{ New Session Started ! }")
