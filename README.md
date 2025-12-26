@@ -5,7 +5,7 @@ A simple yet powerful AI assistant you can run right in your terminal!
 
 ---
 
-<h2>▶️ Run It</h2>
+<h3>▶️ Run It</h3>
 
 ```bash
 python3 feai.py
@@ -15,7 +15,7 @@ Make sure Python is installed on your system. If not, install it first.
 
 ---
 
-<h2>🔐 API Key</h2>
+<h3>🔐 API Key</h3>
 
 1. Open the `feai.py` file with any text editor.  
 2. Add your API key.  
@@ -23,7 +23,7 @@ Make sure Python is installed on your system. If not, install it first.
 
 ---
 
-<h2>🎯 Personalization</h2>
+<h3>🎯 Personalization</h3>
 
 Want to customize your AI assistant?
 
@@ -32,7 +32,7 @@ Want to customize your AI assistant?
 
 ---
 
-<h2>💻 Basic Commands</h2>
+<h3>💻 Basic Commands</h3>
 
 - `help` → Show help menu  
 - `exit` → Quit the assistant  
@@ -40,13 +40,13 @@ Want to customize your AI assistant?
 
 ---
 
-<h2>🛠️ Coming Soon</h2>
+<h3>🛠️ Coming Soon</h3>
 
 FeAi is just the beginning. The goal is to evolve it into a powerful CLI assistant (like Gemini CLI) to support developers with real project tasks, not just basic interactions.
 
 ---
 
-<h2>❤️ Support</h2>
+<h3>❤️ Support</h3>
 
 If FeAi helped you, that's awesome!  
 No donations needed — just knowing it's useful is enough 😊
