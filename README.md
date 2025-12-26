@@ -1,6 +1,6 @@
 
 # FeAi - Terminal AI Assistant 🚀
-
+<img src="https://raw.githubusercontent.com/Yas-Devp/FeAi/refs/heads/main/20251226_204327.jpg" style="width=100%;height=auto;"/>
 A simple yet powerful AI assistant you can run right in your terminal!
 
 ---
